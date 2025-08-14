@@ -1,13 +1,33 @@
-# React + Vite
+# 🌦️ Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Weather App Banner](./public/Weather-App.png) <!-- Replace with your banner image -->
 
-Currently, two official plugins are available:
+A responsive weather dashboard with **live API data**, **geolocation detection**, **5-day forecast**, and **interactive temperature trend charts**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo  
+🔗 [View Live](https://weather-app-pi-eight-xdj1fl5g0t.vercel.app/)  
+💻 [GitHub Repo](https://github.com/aimgodheretest/WeatherApp)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# WeatherApp
+---
+
+## 🛠 Tech Stack  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61dafb)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
+![OpenWeather API](https://img.shields.io/badge/OpenWeather_API-EE6C4D?logo=weather&logoColor=white)
+
+---
+
+## ✨ Features  
+- 🌍 Real-time weather updates by city or geolocation  
+- 📅 5-day forecast display  
+- 📊 Interactive temperature charts  
+- 📱 Fully responsive UI  
+
+---
+
+## 📸 Screenshots  
+![App Screenshot](./public/Weather-App.png) <!-- Replace with actual screenshot -->
+
+---
